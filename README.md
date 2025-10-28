@@ -1,6 +1,5 @@
 # WorkShop---Fintech---BLOCKCHAIN
 
-
 📄 Tu peux lire le **whitepaper original du Bitcoin** ici :  
 👉 [Bitcoin: A Peer-to-Peer Electronic Cash System (Satoshi Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)
 
@@ -15,7 +14,6 @@ Exemple :
 ---
 
 ## 🧊 Cold Wallets
-
 
 Exemples :
 - [Ledger](https://www.ledger.com/fr) — portefeuille matériel (hardware wallet) français reconnu pour sa sécurité et sa compatibilité avec +5000 cryptos.  
@@ -32,6 +30,13 @@ Exemples :
 
 ---
 
+## 🛠 Outils pour débutants / Workshop
+
+- [Remix – IDE Solidity en ligne](https://remix.ethereum.org/)  
+- [Sepolia Faucet – Obtenir des ETH testnet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
+
+---
+
 ## 📚 Ressources utiles
 
 - [Whitepaper Bitcoin (bitcoin.org)](https://bitcoin.org/bitcoin.pdf)  
@@ -42,4 +47,4 @@ Exemples :
 ---
 
 🧾 **Auteur :** *Ton nom ici*  
-📅 **Dernière mise à jour :** Octobre 2025  
+📅 **Dernière mise à jour :** Octobre 2025
