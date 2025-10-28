@@ -10,7 +10,7 @@
 
 Exemple :
 - [Binance](https://www.binance.com/fr) — plateforme d’échange permettant de gérer ses cryptos, faire du trading et du staking.  
-- MetaMask — extension de navigateur utilisée pour interagir avec les applications décentralisées (dApps).
+- [MetaMask](https://metamask.io/) — extension de navigateur utilisée pour interagir avec les applications décentralisées (dApps).
 
 ---
 
