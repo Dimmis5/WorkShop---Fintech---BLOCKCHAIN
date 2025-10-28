@@ -30,7 +30,7 @@ Exemples :
 
 ---
 
-## 🛠 Outils pour débutants / Workshop
+## 🛠 Outils Workshop
 
 - [Remix – IDE Solidity en ligne](https://remix.ethereum.org/)  
 - [Sepolia Faucet – Obtenir des ETH testnet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
@@ -46,5 +46,5 @@ Exemples :
 
 ---
 
-🧾 **Auteur :** *Ton nom ici*  
+🧾 **Auteur :** *Dimeo Zhang*  
 📅 **Dernière mise à jour :** Octobre 2025
