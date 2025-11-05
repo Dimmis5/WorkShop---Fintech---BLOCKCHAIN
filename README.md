@@ -48,3 +48,6 @@ Exemples :
 
 🧾 **Auteur :** *Dimeo Zhang*  
 📅 **Dernière mise à jour :** Octobre 2025
+
+
+PARLER HALVING
