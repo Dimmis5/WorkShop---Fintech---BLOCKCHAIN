@@ -48,8 +48,10 @@ Exemples :
 
 Value WEI : 10000000000000000
 
+---
+
 🧾 **Auteur :** *Dimeo Zhang*  
-📅 **Dernière mise à jour :** Octobre 2025
+📅 **Dernière mise à jour :** 14 dec 2025
 
 
 PARLER HALVING
